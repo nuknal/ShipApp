@@ -1,0 +1,218 @@
+{
+  "DefaultLayout": {
+    "metaTitle": "ShipApp - Professional Mobile App Landing Page Template",
+    "metaDescription": "Create stunning landing pages for your mobile apps with ShipApp - a modern, responsive template designed for iOS and Android app developers.",
+    "metaKeywords": "mobile app template, app landing page, iOS app website, Android app website, app marketing, mobile app promotion, ShipApp",
+    "ogTitle": "ShipApp - Professional Mobile App Landing Page Template",
+    "ogDescription": "Launch your mobile app with style using ShipApp's professional landing page template. Perfect for iOS and Android developers.",
+    "ogImageAlt": "ShipApp - Mobile App Landing Page Template",
+    "twitterTitle": "ShipApp - Professional Mobile App Landing Page Template",
+    "twitterDescription": "Create stunning landing pages for your mobile apps with ShipApp. Modern, responsive, and developer-friendly. #MobileApp #AppTemplate #ShipApp"
+  },
+  "Navbar": {
+    "features": "Features",
+    "screenshots": "Screenshots",
+    "reviews": "Reviews",
+    "testimonials": "Reviews",
+    "faq": "FAQ",
+    "theme": {
+      "light": "Light Mode",
+      "dark": "Dark Mode",
+      "system": "System"
+    }
+  },
+  "LanguageSwitcher": {
+    "english": "English",
+    "chinese": "中文",
+    "language": "Language"
+  },
+  "AppHero": {
+    "headline": "Launch Your App with",
+    "headlineHighlight": "Professional Style",
+    "description": "ShipApp provides everything you need to create a stunning landing page for your mobile app. Modern design, responsive layout, and easy customization.",
+    "feature1": "Modern design",
+    "feature2": "Easy customization",
+    "feature3": "Responsive layout",
+    "stat1Number": "1000+",
+    "stat1Label": "Apps Launched",
+    "stat2Number": "4.9",
+    "stat2Label": "Average Rating",
+    "stat3Number": "50+",
+    "stat3Label": "Countries",
+    "freeLabel": "Free",
+    "downloadOn": "Download on the",
+    "getItOn": "Get it on",
+    "comingSoon": "Coming Soon",
+    "appPreviewTitle": "Your Amazing App",
+    "appPreviewDesc": "Ready to download"
+  },
+  "AppFeatures": {
+    "tag": "Why Choose ShipApp",
+    "title": "Everything You Need to",
+    "titleHighlight": "Showcase Your App",
+    "description": "From modern design to seamless functionality, ShipApp template provides all the tools you need to create an impressive app landing page.",
+    "ctaTitle": "Ready to Launch Your App Website?",
+    "ctaDescription": "Get started with ShipApp template and create a professional landing page in minutes.",
+    "downloadNow": "Get Template",
+    "learnMore": "View Demo"
+  },
+  "AppScreenshots": {
+    "tag": "See It in Action",
+    "title": "Beautiful Design, Perfect Functionality",
+    "description": "Discover how ShipApp template creates stunning app landing pages that convert visitors into users.",
+    "feature1": "High-quality UI mockups",
+    "feature2": "Device frames included",
+    "feature3": "Smooth animations",
+    "screenshot1": {
+      "title": "Modern Hero Section",
+      "description": "Eye-catching hero section with app preview, download buttons, and compelling messaging."
+    },
+    "screenshot2": {
+      "title": "Feature Showcase",
+      "description": "Highlight your app's key features with beautiful icons and engaging descriptions."
+    },
+    "screenshot3": {
+      "title": "App Screenshots Gallery",
+      "description": "Showcase your app's interface with an elegant screenshot carousel and device mockups."
+    },
+    "screenshot4": {
+      "title": "User Testimonials",
+      "description": "Build trust with authentic user reviews and ratings displayed in an attractive format."
+    },
+    "screenshot5": {
+      "title": "Download Section",
+      "description": "Clear call-to-action with App Store and Google Play buttons plus QR codes for easy access."
+    }
+  },
+  "AppTestimonials": {
+    "tag": "Success Stories",
+    "title": "Trusted by App Developers Worldwide",
+    "description": "See how developers are using ShipApp template to create professional landing pages for their mobile apps.",
+    "testimonial1": {
+      "name": "Sarah Chen",
+      "role": "iOS Developer",
+      "content": "ShipApp template saved me weeks of development time. The design is modern and the customization options are perfect for showcasing my app."
+    },
+    "testimonial2": {
+      "name": "Michael Rodriguez",
+      "role": "Startup Founder",
+      "content": "Professional, responsive, and easy to customize. This template helped us launch our app website quickly and effectively."
+    },
+    "testimonial3": {
+      "name": "Emma Thompson",
+      "role": "Product Manager",
+      "content": "The template's clean design and smooth animations make our app look incredibly professional. Highly recommended!"
+    },
+    "testimonial4": {
+      "name": "David Kim",
+      "role": "Indie Developer",
+      "content": "As a solo developer, I needed something that looked professional without the complexity. ShipApp delivered exactly that."
+    },
+    "testimonial5": {
+      "name": "Lisa Wang",
+      "role": "Design Agency Owner",
+      "content": "We use ShipApp template for client projects. It's reliable, customizable, and always produces great results."
+    },
+    "testimonial6": {
+      "name": "James Wilson",
+      "role": "Mobile App Developer",
+      "content": "The template's performance is excellent and the code quality is top-notch. Perfect for professional app launches."
+    },
+    "stat1": {
+      "number": "1000+",
+      "label": "Apps Launched"
+    },
+    "stat2": {
+      "number": "500+",
+      "label": "Happy Developers"
+    },
+    "stat3": {
+      "number": "50+",
+      "label": "Countries"
+    },
+    "stat4": {
+      "number": "4.9",
+      "label": "Average Rating"
+    },
+    "storeRatingNote": "Ratings shown are sample values for demonstration."
+  },
+  "AppDownload": {
+    "title": "Get ShipApp Template Today",
+    "description": "Start building your professional app landing page with our modern, responsive template. Perfect for iOS and Android apps.",
+    "benefit1": {
+      "title": "Modern Design",
+      "description": "Clean, professional design that works perfectly for any app"
+    },
+    "benefit2": {
+      "title": "Easy to Customize",
+      "description": "Simple configuration system - no coding required"
+    },
+    "benefit3": {
+      "title": "Responsive Layout",
+      "description": "Looks great on desktop, tablet, and mobile devices"
+    },
+    "downloadOn": "Download on the",
+    "getItOn": "Get it on",
+    "comingSoon": "Coming Soon",
+    "qrCodeTitle": "Scan to Download",
+    "scanForIOS": "Scan for iPhone",
+    "scanForAndroid": "Scan for Android",
+    "qrCodeNote": "Point your camera at the QR code to download directly to your device"
+  },
+  "AppFAQ": {
+    "tag": "Common Questions",
+    "title": "Everything You Need to Know",
+    "description": "Get answers to frequently asked questions about using ShipApp template for your mobile app landing page.",
+    "faq1": {
+      "question": "How do I get started with the template?",
+      "answer": "Simply clone the repository, install dependencies with npm or yarn, and customize the app configuration file with your app's details. The template is ready to use out of the box."
+    },
+    "faq2": {
+      "question": "Can I customize the design and colors?",
+      "answer": "Absolutely! The template uses Tailwind CSS for styling, making it easy to customize colors, fonts, and layout. You can also modify the configuration file to change content and settings."
+    },
+    "faq3": {
+      "question": "Is the template responsive?",
+      "answer": "Yes, ShipApp template is fully responsive and works perfectly on all devices - desktop, tablet, and mobile. The design automatically adapts to different screen sizes."
+    },
+    "faq4": {
+      "question": "What technologies are used?",
+      "answer": "The template is built with Next.js 15, React 19, TypeScript, Tailwind CSS, and Framer Motion. It also includes internationalization support and dark mode functionality."
+    },
+    "faq5": {
+      "question": "Can I use this for commercial projects?",
+      "answer": "Yes, you can use ShipApp template for both personal and commercial projects. Create as many app landing pages as you need for your clients or your own apps."
+    },
+    "stillHaveQuestions": "Still Have Questions?",
+    "contactDescription": "We're here to help you create the perfect landing page for your mobile app.",
+    "emailSupport": "Contact Support"
+  },
+  "Footer": {
+    "slogan": "The modern template for creating professional mobile app landing pages. Fast, responsive, and easy to customize.",
+    "download": "Download",
+    "iosApp": "iOS App",
+    "comingSoon": "Coming Soon",
+    "downloadBenefitsTitle": "Why choose ShipApp",
+    "downloadBenefit1": "Modern design",
+    "downloadBenefit2": "Easy to customize",
+    "downloadBenefit3": "Responsive layout",
+    "features": "Key Features",
+    "smartAnalysis": "Modern Design System",
+    "styleTransfer": "Easy Customization",
+    "photographyTips": "Responsive Layout",
+    "helpCenter": "Template Documentation",
+    "company": "Resources",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Support",
+    "copyright": " All rights reserved."
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "content": "# Privacy Policy\n\nLast updated: January 2025\n\n## Information We Collect\n\nWhen you use our website or template, we may collect:\n- Basic analytics data to improve our services\n- Contact information if you reach out to us\n- Usage statistics to understand how the template is used\n\n## How We Use Information\n\nWe use collected information to:\n- Improve our template and documentation\n- Respond to support requests\n- Analyze usage patterns to enhance user experience\n\n## Data Protection\n\nWe are committed to protecting your privacy:\n- We never sell your personal information\n- We use industry-standard security measures\n- We only collect data necessary to improve our services\n\n## Contact Us\n\nIf you have questions about this Privacy Policy, please contact us at privacy@shipapp.com."
+  },
+  "userAgreement": {
+    "title": "Terms of Service",
+    "content": "# Terms of Service\n\nLast updated: January 2025\n\n## License\n\nBy using ShipApp template, you agree to:\n- Use the template in accordance with its intended purpose\n- Not redistribute the template without permission\n- Respect intellectual property rights\n\n## Template Usage\n\nYou may:\n- Use the template for personal and commercial projects\n- Customize the template to fit your needs\n- Create multiple landing pages using the template\n\n## Limitations\n\nYou may not:\n- Resell or redistribute the template as-is\n- Claim ownership of the original template code\n- Remove attribution where required\n\n## Support\n\nWe provide:\n- Documentation and setup guides\n- Community support through our channels\n- Regular updates and improvements\n\n## Contact\n\nFor questions about these terms, contact us at legal@shipapp.com."
+  }
+}

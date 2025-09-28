@@ -1,0 +1,28 @@
+<svg width="375" height="812" viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg">
+  <rect width="375" height="812" fill="#F8FAFC"/>
+  <rect width="375" height="56" fill="#FFFFFF"/>
+  <text x="20" y="36" font-family="SF Pro Display" font-size="18" font-weight="600" fill="#111827">ShipApp</text>
+  <text x="20" y="80" font-family="SF Pro Display" font-size="22" font-weight="700" fill="#111827">Settings</text>
+
+  <rect x="20" y="100" width="335" height="56" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <circle cx="46" cy="128" r="10" fill="#EFF6FF"/>
+  <text x="66" y="133" font-family="SF Pro Display" font-size="14" fill="#111827">Dark Mode</text>
+  <rect x="300" y="118" width="40" height="20" rx="10" fill="#3B82F6"/>
+  <circle cx="330" cy="128" r="8" fill="#FFFFFF"/>
+
+  <rect x="20" y="168" width="335" height="56" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <circle cx="46" cy="196" r="10" fill="#FEF3C7"/>
+  <text x="66" y="201" font-family="SF Pro Display" font-size="14" fill="#111827">Language</text>
+  <text x="300" y="201" font-family="SF Pro Display" font-size="14" fill="#6B7280">English</text>
+
+  <rect x="20" y="236" width="335" height="56" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <circle cx="46" cy="264" r="10" fill="#FDF2F8"/>
+  <text x="66" y="269" font-family="SF Pro Display" font-size="14" fill="#111827">Push Notifications</text>
+  <rect x="300" y="254" width="40" height="20" rx="10" fill="#10B981"/>
+  <circle cx="330" cy="264" r="8" fill="#FFFFFF"/>
+
+  <rect x="20" y="304" width="335" height="56" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <circle cx="46" cy="332" r="10" fill="#EFF6FF"/>
+  <text x="66" y="337" font-family="SF Pro Display" font-size="14" fill="#111827">Privacy & Security</text>
+  <text x="300" y="337" font-family="SF Pro Display" font-size="14" fill="#6B7280">Details</text>
+</svg>

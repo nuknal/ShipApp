@@ -1,0 +1,103 @@
+<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="375" height="812" fill="#F8FAFC"/>
+  
+  <!-- Status Bar -->
+  <rect width="375" height="44" fill="#FFFFFF"/>
+  <text x="20" y="28" font-family="SF Pro Display" font-size="14" font-weight="600" fill="#000000">9:41</text>
+  <rect x="294" y="17" width="24" height="11" rx="2" fill="#000000"/>
+  <rect x="322" y="15" width="15" height="15" rx="2" fill="#000000"/>
+  <rect x="341" y="17" width="22" height="11" rx="5" fill="#34C759"/>
+  
+  <!-- Header -->
+  <rect y="44" width="375" height="80" fill="#FFFFFF"/>
+  <rect y="124" width="375" height="1" fill="#E5E7EB"/>
+  
+  <!-- App Logo -->
+  <circle cx="60" cy="84" r="20" fill="#3B82F6"/>
+  <text x="60" y="90" font-family="SF Pro Display" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text>
+  
+  <!-- App Title -->
+  <text x="90" y="80" font-family="SF Pro Display" font-size="24" font-weight="700" fill="#1F2937">ShipApp</text>
+  <text x="90" y="98" font-family="SF Pro Display" font-size="14" fill="#6B7280">Mobile App Template</text>
+  
+  <!-- Profile Icon -->
+  <circle cx="335" cy="84" r="18" fill="#F3F4F6"/>
+  <circle cx="335" cy="78" r="6" fill="#9CA3AF"/>
+  <path d="M325 94 C325 90, 329 88, 335 88 C341 88, 345 90, 345 94" stroke="#9CA3AF" stroke-width="2" fill="none"/>
+  
+  <!-- Main Content -->
+  <rect y="125" width="375" height="600" fill="#F8FAFC"/>
+  
+  <!-- Welcome Section -->
+  <rect x="20" y="145" width="335" height="120" rx="12" fill="#FFFFFF"/>
+  <rect x="20" y="145" width="335" height="4" rx="2" fill="#3B82F6"/>
+  
+  <text x="35" y="175" font-family="SF Pro Display" font-size="18" font-weight="600" fill="#1F2937">Welcome to ShipApp</text>
+  <text x="35" y="195" font-family="SF Pro Display" font-size="14" fill="#6B7280">Create beautiful landing pages</text>
+  <text x="35" y="210" font-family="SF Pro Display" font-size="14" fill="#6B7280">for your mobile apps</text>
+  
+  <!-- CTA Button -->
+  <rect x="35" y="225" width="120" height="32" rx="16" fill="#3B82F6"/>
+  <text x="95" y="245" font-family="SF Pro Display" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">Get Started</text>
+  
+  <!-- Stats Cards -->
+  <rect x="20" y="285" width="105" height="80" rx="8" fill="#FFFFFF"/>
+  <text x="72.5" y="310" font-family="SF Pro Display" font-size="24" font-weight="700" fill="#3B82F6" text-anchor="middle">1000+</text>
+  <text x="72.5" y="325" font-family="SF Pro Display" font-size="12" fill="#6B7280" text-anchor="middle">Apps Created</text>
+  <text x="72.5" y="340" font-family="SF Pro Display" font-size="12" fill="#6B7280" text-anchor="middle">with ShipApp</text>
+  
+  <rect x="135" y="285" width="105" height="80" rx="8" fill="#FFFFFF"/>
+  <text x="187.5" y="310" font-family="SF Pro Display" font-size="24" font-weight="700" fill="#10B981" text-anchor="middle">4.9★</text>
+  <text x="187.5" y="325" font-family="SF Pro Display" font-size="12" fill="#6B7280" text-anchor="middle">Average Rating</text>
+  <text x="187.5" y="340" font-family="SF Pro Display" font-size="12" fill="#6B7280" text-anchor="middle">from Users</text>
+  
+  <rect x="250" y="285" width="105" height="80" rx="8" fill="#FFFFFF"/>
+  <text x="302.5" y="310" font-family="SF Pro Display" font-size="24" font-weight="700" fill="#F59E0B" text-anchor="middle">50+</text>
+  <text x="302.5" y="325" font-family="SF Pro Display" font-size="12" fill="#6B7280" text-anchor="middle">Countries</text>
+  <text x="302.5" y="340" font-family="SF Pro Display" font-size="12" fill="#6B7280" text-anchor="middle">Worldwide</text>
+  
+  <!-- Features Section -->
+  <text x="20" y="395" font-family="SF Pro Display" font-size="18" font-weight="600" fill="#1F2937">Key Features</text>
+  
+  <!-- Feature Items -->
+  <rect x="20" y="410" width="335" height="60" rx="8" fill="#FFFFFF"/>
+  <circle cx="45" cy="440" r="12" fill="#EFF6FF"/>
+  <rect x="39" y="434" width="12" height="12" rx="2" fill="#3B82F6"/>
+  <text x="70" y="435" font-family="SF Pro Display" font-size="16" font-weight="500" fill="#1F2937">Modern Design</text>
+  <text x="70" y="450" font-family="SF Pro Display" font-size="13" fill="#6B7280">Clean and professional templates</text>
+  
+  <rect x="20" y="480" width="335" height="60" rx="8" fill="#FFFFFF"/>
+  <circle cx="45" cy="510" r="12" fill="#F0FDF4"/>
+  <circle cx="45" cy="510" r="6" fill="#10B981"/>
+  <text x="70" y="505" font-family="SF Pro Display" font-size="16" font-weight="500" fill="#1F2937">Easy Customization</text>
+  <text x="70" y="520" font-family="SF Pro Display" font-size="13" fill="#6B7280">No coding required</text>
+  
+  <rect x="20" y="550" width="335" height="60" rx="8" fill="#FFFFFF"/>
+  <circle cx="45" cy="580" r="12" fill="#FEF3C7"/>
+  <rect x="39" y="574" width="12" height="12" rx="6" fill="#F59E0B"/>
+  <text x="70" y="575" font-family="SF Pro Display" font-size="16" font-weight="500" fill="#1F2937">Responsive Layout</text>
+  <text x="70" y="590" font-family="SF Pro Display" font-size="13" fill="#6B7280">Works on all devices</text>
+  
+  <!-- Bottom Navigation -->
+  <rect y="725" width="375" height="87" fill="#FFFFFF"/>
+  <rect y="725" width="375" height="1" fill="#E5E7EB"/>
+  
+  <!-- Nav Items -->
+  <circle cx="75" cy="755" r="16" fill="#3B82F6"/>
+  <rect x="69" y="749" width="12" height="12" rx="2" fill="#FFFFFF"/>
+  <text x="75" y="780" font-family="SF Pro Display" font-size="10" fill="#3B82F6" text-anchor="middle">Home</text>
+  
+  <circle cx="150" cy="755" r="16" fill="#F3F4F6"/>
+  <rect x="144" y="749" width="12" height="12" rx="2" fill="#9CA3AF"/>
+  <text x="150" y="780" font-family="SF Pro Display" font-size="10" fill="#9CA3AF" text-anchor="middle">Templates</text>
+  
+  <circle cx="225" cy="755" r="16" fill="#F3F4F6"/>
+  <circle cx="225" cy="755" r="6" fill="#9CA3AF"/>
+  <text x="225" y="780" font-family="SF Pro Display" font-size="10" fill="#9CA3AF" text-anchor="middle">Gallery</text>
+  
+  <circle cx="300" cy="755" r="16" fill="#F3F4F6"/>
+  <circle cx="300" cy="749" r="3" fill="#9CA3AF"/>
+  <rect x="294" y="755" width="12" height="8" rx="1" fill="#9CA3AF"/>
+  <text x="300" y="780" font-family="SF Pro Display" font-size="10" fill="#9CA3AF" text-anchor="middle">Profile</text>
+</svg>

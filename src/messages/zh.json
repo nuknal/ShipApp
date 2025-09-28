@@ -1,0 +1,218 @@
+{
+  "DefaultLayout": {
+    "metaTitle": "ShipApp - 专业的移动应用着陆页模板",
+    "metaDescription": "使用ShipApp为您的移动应用创建精美的着陆页 - 专为iOS和Android应用开发者设计的现代响应式模板。",
+    "metaKeywords": "移动应用模板, 应用着陆页, iOS应用网站, Android应用网站, 应用营销, 移动应用推广, ShipApp",
+    "ogTitle": "ShipApp - 专业的移动应用着陆页模板",
+    "ogDescription": "使用ShipApp的专业着陆页模板，让您的移动应用以优雅的方式上线。完美适用于iOS和Android开发者。",
+    "ogImageAlt": "ShipApp - 移动应用着陆页模板",
+    "twitterTitle": "ShipApp - 专业的移动应用着陆页模板",
+    "twitterDescription": "使用ShipApp为您的移动应用创建精美的着陆页。现代、响应式、开发者友好。#移动应用 #应用模板 #ShipApp"
+  },
+  "Navbar": {
+    "features": "功能特色",
+    "screenshots": "界面展示",
+    "reviews": "用户评价",
+    "testimonials": "用户评价",
+    "faq": "常见问题",
+    "theme": {
+      "light": "浅色模式",
+      "dark": "深色模式",
+      "system": "跟随系统"
+    }
+  },
+  "LanguageSwitcher": {
+    "english": "English",
+    "chinese": "中文",
+    "language": "语言"
+  },
+  "AppHero": {
+    "headline": "用专业风格",
+    "headlineHighlight": "发布您的应用",
+    "description": "ShipApp提供创建精美移动应用着陆页所需的一切。现代设计、响应式布局、轻松定制。",
+    "feature1": "现代设计",
+    "feature2": "易于定制",
+    "feature3": "响应式布局",
+    "stat1Number": "1000+",
+    "stat1Label": "应用发布",
+    "stat2Number": "4.9",
+    "stat2Label": "平均评分",
+    "stat3Number": "50+",
+    "stat3Label": "国家地区",
+    "freeLabel": "免费",
+    "downloadOn": "下载应用",
+    "getItOn": "立即下载",
+    "comingSoon": "即将推出",
+    "appPreviewTitle": "您的精彩应用",
+    "appPreviewDesc": "立即下载体验"
+  },
+  "AppFeatures": {
+    "tag": "为什么选择ShipApp",
+    "title": "展示应用所需的",
+    "titleHighlight": "一切功能",
+    "description": "从现代设计到无缝功能，ShipApp模板提供创建令人印象深刻的应用着陆页所需的所有工具。",
+    "ctaTitle": "准备启动您的应用网站了吗？",
+    "ctaDescription": "开始使用ShipApp模板，几分钟内创建专业的着陆页。",
+    "downloadNow": "获取模板",
+    "learnMore": "查看演示"
+  },
+  "AppScreenshots": {
+    "tag": "实际效果展示",
+    "title": "精美设计，完美功能",
+    "description": "了解ShipApp模板如何创建能够将访客转化为用户的精美应用着陆页。",
+    "feature1": "高质量界面模型",
+    "feature2": "内置设备外框",
+    "feature3": "流畅动画效果",
+    "screenshot1": {
+      "title": "现代首页区域",
+      "description": "引人注目的首页区域，包含应用预览、下载按钮和引人入胜的信息。"
+    },
+    "screenshot2": {
+      "title": "功能展示",
+      "description": "使用精美图标和引人入胜的描述突出显示应用的关键功能。"
+    },
+    "screenshot3": {
+      "title": "应用截图画廊",
+      "description": "通过优雅的截图轮播和设备模型展示应用界面。"
+    },
+    "screenshot4": {
+      "title": "用户评价",
+      "description": "以有吸引力的格式显示真实的用户评论和评分来建立信任。"
+    },
+    "screenshot5": {
+      "title": "下载区域",
+      "description": "清晰的行动号召，包含App Store和Google Play按钮以及二维码，便于访问。"
+    }
+  },
+  "AppTestimonials": {
+    "tag": "成功案例",
+    "title": "深受全球应用开发者信赖",
+    "description": "了解开发者如何使用ShipApp模板为其移动应用创建专业着陆页。",
+    "testimonial1": {
+      "name": "陈莎拉",
+      "role": "iOS开发者",
+      "content": "ShipApp模板为我节省了数周的开发时间。设计现代，定制选项完美适合展示我的应用。"
+    },
+    "testimonial2": {
+      "name": "迈克尔·罗德里格斯",
+      "role": "创业公司创始人",
+      "content": "专业、响应式且易于定制。这个模板帮助我们快速有效地启动了应用网站。"
+    },
+    "testimonial3": {
+      "name": "艾玛·汤普森",
+      "role": "产品经理",
+      "content": "模板的简洁设计和流畅动画让我们的应用看起来非常专业。强烈推荐！"
+    },
+    "testimonial4": {
+      "name": "金大卫",
+      "role": "独立开发者",
+      "content": "作为独立开发者，我需要看起来专业但不复杂的东西。ShipApp完美地满足了这一点。"
+    },
+    "testimonial5": {
+      "name": "王丽莎",
+      "role": "设计机构负责人",
+      "content": "我们在客户项目中使用ShipApp模板。它可靠、可定制，总是产生出色的结果。"
+    },
+    "testimonial6": {
+      "name": "詹姆斯·威尔逊",
+      "role": "移动应用开发者",
+      "content": "模板的性能优秀，代码质量一流。非常适合专业应用发布。"
+    },
+    "stat1": {
+      "number": "1000+",
+      "label": "应用发布"
+    },
+    "stat2": {
+      "number": "500+",
+      "label": "满意开发者"
+    },
+    "stat3": {
+      "number": "50+",
+      "label": "国家地区"
+    },
+    "stat4": {
+      "number": "4.9",
+      "label": "平均评分"
+    },
+    "storeRatingNote": "评分为演示示例值，非真实评分。"
+  },
+  "AppDownload": {
+    "title": "立即获取ShipApp模板",
+    "description": "使用我们现代、响应式的模板开始构建您的专业应用着陆页。完美适用于iOS和Android应用。",
+    "benefit1": {
+      "title": "现代设计",
+      "description": "简洁专业的设计，完美适用于任何应用"
+    },
+    "benefit2": {
+      "title": "易于定制",
+      "description": "简单的配置系统 - 无需编码"
+    },
+    "benefit3": {
+      "title": "响应式布局",
+      "description": "在桌面、平板和移动设备上都表现出色"
+    },
+    "downloadOn": "下载应用",
+    "getItOn": "立即获取",
+    "comingSoon": "即将推出",
+    "qrCodeTitle": "扫码下载",
+    "scanForIOS": "扫码下载iPhone版",
+    "scanForAndroid": "扫码下载安卓版",
+    "qrCodeNote": "将相机对准二维码即可直接下载到您的设备"
+  },
+  "AppFAQ": {
+    "tag": "常见问题",
+    "title": "您需要了解的一切",
+    "description": "获取关于使用ShipApp模板创建移动应用着陆页的常见问题解答。",
+    "faq1": {
+      "question": "如何开始使用模板？",
+      "answer": "只需克隆仓库，使用npm或yarn安装依赖项，然后使用您应用的详细信息自定义应用配置文件。模板开箱即用。"
+    },
+    "faq2": {
+      "question": "我可以自定义设计和颜色吗？",
+      "answer": "当然可以！模板使用Tailwind CSS进行样式设计，使自定义颜色、字体和布局变得容易。您还可以修改配置文件来更改内容和设置。"
+    },
+    "faq3": {
+      "question": "模板是响应式的吗？",
+      "answer": "是的，ShipApp模板完全响应式，在所有设备上都能完美工作 - 桌面、平板和移动设备。设计会自动适应不同的屏幕尺寸。"
+    },
+    "faq4": {
+      "question": "使用了哪些技术？",
+      "answer": "模板使用Next.js 15、React 19、TypeScript、Tailwind CSS和Framer Motion构建。还包括国际化支持和深色模式功能。"
+    },
+    "faq5": {
+      "question": "我可以将其用于商业项目吗？",
+      "answer": "是的，您可以将ShipApp模板用于个人和商业项目。为您的客户或自己的应用创建任意数量的应用着陆页。"
+    },
+    "stillHaveQuestions": "还有其他问题？",
+    "contactDescription": "我们在这里帮助您为移动应用创建完美的着陆页。",
+    "emailSupport": "联系支持"
+  },
+  "Footer": {
+    "slogan": "用于创建专业移动应用着陆页的现代模板。快速、响应式且易于定制。",
+    "download": "下载",
+    "iosApp": "iOS 应用",
+    "comingSoon": "即将推出",
+    "downloadBenefitsTitle": "为什么选择 ShipApp",
+    "downloadBenefit1": "现代设计",
+    "downloadBenefit2": "易于定制",
+    "downloadBenefit3": "响应式布局",
+    "features": "主要特色",
+    "smartAnalysis": "现代设计系统",
+    "styleTransfer": "轻松定制",
+    "photographyTips": "响应式布局",
+    "helpCenter": "模板文档",
+    "company": "资源",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "contact": "联系支持",
+    "copyright": " 版权所有。"
+  },
+  "privacyPolicy": {
+    "title": "隐私政策",
+    "content": "# 隐私政策\n\n最后更新：2025年1月\n\n## 我们收集的信息\n\n当您使用我们的网站或模板时，我们可能收集：\n- 基本分析数据以改进我们的服务\n- 如果您联系我们，我们会收集联系信息\n- 使用统计数据以了解模板的使用情况\n\n## 我们如何使用信息\n\n我们使用收集的信息来：\n- 改进我们的模板和文档\n- 响应支持请求\n- 分析使用模式以增强用户体验\n\n## 数据保护\n\n我们致力于保护您的隐私：\n- 我们从不出售您的个人信息\n- 我们使用行业标准的安全措施\n- 我们只收集改进服务所需的数据\n\n## 联系我们\n\n如果您对本隐私政策有疑问，请通过privacy@shipapp.com联系我们。"
+  },
+  "userAgreement": {
+    "title": "服务条款",
+    "content": "# 服务条款\n\n最后更新：2025年1月\n\n## 许可证\n\n通过使用ShipApp模板，您同意：\n- 按照预期目的使用模板\n- 未经许可不得重新分发模板\n- 尊重知识产权\n\n## 模板使用\n\n您可以：\n- 将模板用于个人和商业项目\n- 自定义模板以满足您的需求\n- 使用模板创建多个着陆页\n\n## 限制\n\n您不得：\n- 原样转售或重新分发模板\n- 声称拥有原始模板代码的所有权\n- 在需要时删除归属信息\n\n## 支持\n\n我们提供：\n- 文档和设置指南\n- 通过我们渠道的社区支持\n- 定期更新和改进\n\n## 联系\n\n有关这些条款的问题，请通过legal@shipapp.com联系我们。"
+  }
+}

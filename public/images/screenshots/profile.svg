@@ -1,0 +1,26 @@
+<svg width="375" height="812" viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg">
+  <rect width="375" height="812" fill="#F8FAFC"/>
+  <rect width="375" height="56" fill="#FFFFFF"/>
+  <text x="20" y="36" font-family="SF Pro Display" font-size="18" font-weight="600" fill="#111827">ShipApp</text>
+  <text x="20" y="80" font-family="SF Pro Display" font-size="22" font-weight="700" fill="#111827">Profile</text>
+
+  <rect x="20" y="100" width="335" height="160" rx="16" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <circle cx="90" cy="160" r="32" fill="#3B82F6"/>
+  <text x="90" y="166" font-family="SF Pro Display" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">JD</text>
+  <text x="140" y="150" font-family="SF Pro Display" font-size="16" font-weight="600" fill="#111827">John Developer</text>
+  <text x="140" y="172" font-family="SF Pro Display" font-size="13" fill="#6B7280">Mobile App Designer</text>
+
+  <rect x="20" y="280" width="335" height="80" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="36" y="310" font-family="SF Pro Display" font-size="14" font-weight="600" fill="#111827">Stats</text>
+  <text x="36" y="330" font-family="SF Pro Display" font-size="12" fill="#6B7280">Apps 12 · Rating 4.8★ · Downloads 2.5k</text>
+
+  <rect x="20" y="380" width="335" height="120" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="36" y="410" font-family="SF Pro Display" font-size="14" font-weight="600" fill="#111827">Recent Projects</text>
+  <rect x="36" y="426" width="24" height="24" rx="6" fill="#EFF6FF"/>
+  <text x="68" y="444" font-family="SF Pro Display" font-size="13" fill="#111827">FitTracker Pro</text>
+  <rect x="36" y="456" width="24" height="24" rx="6" fill="#F0FDF4"/>
+  <text x="68" y="474" font-family="SF Pro Display" font-size="13" fill="#111827">TaskMaster</text>
+
+  <rect x="20" y="520" width="335" height="52" rx="26" fill="#3B82F6"/>
+  <text x="187.5" y="552" text-anchor="middle" font-family="SF Pro Display" font-size="16" font-weight="600" fill="#FFFFFF">Create New Project</text>
+</svg>
