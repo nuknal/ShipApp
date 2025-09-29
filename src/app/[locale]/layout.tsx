@@ -149,10 +149,13 @@ export default async function LocaleLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
         />
+
+        (process.env.NEXT_PUBLIC_UMAMI_SCRIPT && (
         <Script
-          src="https://umami.nuknal.com/script.js"
-          data-website-id="732112ea-cd11-4765-b81e-03a4478c4899"
+          src={process.env.NEXT_PUBLIC_UMAMI_SCRIPT}
+          data-website-id={process.env.NEXT_PUBLIC_UMAMI_ID}
         />
+        ))
       </head>
       <body>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
