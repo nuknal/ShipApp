@@ -4,10 +4,11 @@ import { faChevronDown, faChevronUp, faQuestionCircle } from '@fortawesome/free-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useTranslations } from 'next-intl';
 import { useState } from 'react';
-import { appConfig } from '@/config/app';
+import { useAppConfig } from '@/lib/useAppConfig';
 
 export default function AppFAQSection() {
   const t = useTranslations('AppFAQ');
+  const appConfig = useAppConfig();
   const [openItems, setOpenItems] = useState<number[]>([0]); // 默认第一个展开
 
 

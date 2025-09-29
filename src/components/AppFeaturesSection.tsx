@@ -3,11 +3,12 @@
 import { faLightbulb } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useTranslations } from 'next-intl';
-import { appConfig } from '@/config/app';
 import { getIcon, getColorClasses } from '@/lib/utils';
+import { useAppConfig } from '@/lib/useAppConfig';
 
 export default function AppFeaturesSection() {
   const t = useTranslations('AppFeatures');
+  const appConfig = useAppConfig();
 
   return (
     <section id="features" className="bg-gray-50 py-20 dark:bg-gray-900">

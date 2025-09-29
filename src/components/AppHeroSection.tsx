@@ -5,12 +5,13 @@ import { faCamera, faClock, faStar, faWandMagicSparkles } from '@fortawesome/fre
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
-import { appConfig } from '@/config/app';
 import { formatRating } from '@/lib/utils';
+import { useAppConfig } from '@/lib/useAppConfig';
 import IPhone14ProMockup from './iPhone14ProMockup';
 
 export default function AppHeroSection() {
   const t = useTranslations('AppHero');
+  const appConfig = useAppConfig();
   const { score, total } = formatRating(appConfig.rating.score, appConfig.rating.total);
 
   return (

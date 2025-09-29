@@ -3,10 +3,11 @@
 import { faQuoteLeft, faStar } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useTranslations } from 'next-intl';
-import { appConfig } from '@/config/app';
+import { useAppConfig } from '@/lib/useAppConfig';
 
 export default function AppTestimonialsSection() {
   const t = useTranslations('AppTestimonials');
+  const appConfig = useAppConfig();
 
 
   return (

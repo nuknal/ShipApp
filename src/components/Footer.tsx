@@ -10,11 +10,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useLocale, useTranslations } from 'next-intl';
 import Image from 'next/image';
 import Link from 'next/link';
-import { appConfig } from '@/config/app';
+import { useAppConfig } from '@/lib/useAppConfig';
 
 export default function Footer() {
   const t = useTranslations('Footer');
   const locale = useLocale();
+  const appConfig = useAppConfig();
 
   return (
     <footer className="bg-gray-900 py-16 text-white dark:bg-gray-800">

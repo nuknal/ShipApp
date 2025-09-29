@@ -214,5 +214,97 @@
   "userAgreement": {
     "title": "Terms of Service",
     "content": "# Terms of Service\n\nLast updated: January 2025\n\n## License\n\nBy using ShipApp template, you agree to:\n- Use the template in accordance with its intended purpose\n- Not redistribute the template without permission\n- Respect intellectual property rights\n\n## Template Usage\n\nYou may:\n- Use the template for personal and commercial projects\n- Customize the template to fit your needs\n- Create multiple landing pages using the template\n\n## Limitations\n\nYou may not:\n- Resell or redistribute the template as-is\n- Claim ownership of the original template code\n- Remove attribution where required\n\n## Support\n\nWe provide:\n- Documentation and setup guides\n- Community support through our channels\n- Regular updates and improvements\n\n## Contact\n\nFor questions about these terms, contact us at legal@shipapp.com."
+  },
+  "AppConfig": {
+    "name": "ShipApp",
+    "tagline": "Ship your app faster than ever",
+    "description": "The ultimate mobile app landing page template to help developers create stunning websites for their iOS and Android apps.",
+    "features": {
+      "feature1": {
+        "title": "Smart Analytics",
+        "description": "Get detailed insights into your app's performance with advanced analytics and user behavior tracking."
+      },
+      "feature2": {
+        "title": "Easy Customization",
+        "description": "Customize your app's appearance and functionality with our intuitive design system and configuration options."
+      },
+      "feature3": {
+        "title": "High-Quality Photos",
+        "description": "Capture and edit stunning photos with professional-grade filters and editing tools built right into the app."
+      },
+      "feature4": {
+        "title": "User Reviews",
+        "description": "Build trust with your users through authentic reviews and ratings that showcase your app's quality and reliability."
+      },
+      "feature5": {
+        "title": "Performance Tracking",
+        "description": "Monitor your app's performance in real-time with comprehensive analytics and detailed usage statistics."
+      },
+      "feature6": {
+        "title": "User Engagement",
+        "description": "Increase user retention and engagement with personalized experiences and smart notification systems."
+      }
+    },
+    "testimonials": {
+      "testimonial1": {
+        "name": "Sarah Johnson",
+        "role": "Happy User",
+        "content": "This app has completely transformed how I approach daily tasks. The interface is intuitive and the features are exactly what I needed."
+      },
+      "testimonial2": {
+        "name": "Mike Chen",
+        "role": "Professional User", 
+        "content": "I've tried many similar apps, but this one stands out with its attention to detail and user experience. Highly recommended!"
+      },
+      "testimonial3": {
+        "name": "Emily Davis",
+        "role": "Regular User",
+        "content": "Simple, effective, and beautifully designed. This app has become an essential part of my daily routine."
+      }
+    },
+    "screenshots": {
+      "screenshot1": {
+        "title": "Main Interface",
+        "description": "Clean and intuitive main interface with modern design and easy navigation"
+      },
+      "screenshot2": {
+        "title": "Feature Overview",
+        "description": "Comprehensive feature showcase with beautiful UI components and smooth animations"
+      },
+      "screenshot3": {
+        "title": "User Profile",
+        "description": "Personalized user dashboard with statistics and project management"
+      },
+      "screenshot4": {
+        "title": "Settings Panel", 
+        "description": "Customizable settings with dark mode support and advanced preferences"
+      },
+      "screenshot5": {
+        "title": "Notifications",
+        "description": "Smart notification system with categorized alerts and real-time updates"
+      }
+    },
+    "faqs": {
+      "faq1": {
+        "question": "How do I get started with the app?",
+        "answer": "Simply download the app from the App Store or Google Play, create an account, and follow the onboarding process. It takes less than 2 minutes to get started."
+      },
+      "faq2": {
+        "question": "Is the app free to use?",
+        "answer": "The app offers a free tier with essential features. Premium features are available through a subscription for enhanced functionality."
+      },
+      "faq3": {
+        "question": "What devices are supported?",
+        "answer": "The app is available for iOS 14.0+ and Android 8.0+. It works on phones and tablets with full responsive design."
+      },
+      "faq4": {
+        "question": "How do I contact support?",
+        "answer": "You can reach our support team through the app's help section, or email us directly at contact@yourapp.com. We typically respond within 24 hours."
+      },
+      "faq5": {
+        "question": "Can I use the app offline?",
+        "answer": "Yes, most core features work offline. Some features require internet connectivity for syncing and updates."
+      }
+    }
   }
 }

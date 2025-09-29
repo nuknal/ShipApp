@@ -8,7 +8,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
 import ThemeSwitcher from '@/components/ThemeSwitcher';
-import { appConfig } from '@/config/app';
+import { useAppConfig } from '@/lib/useAppConfig';
 import {
   MobileNav,
   MobileNavHeader,
@@ -22,6 +22,7 @@ import {
 
 const Navbar = () => {
   const t = useTranslations('Navbar');
+  const appConfig = useAppConfig();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const toggleMobileMenu = () => {

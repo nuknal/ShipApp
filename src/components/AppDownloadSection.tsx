@@ -4,10 +4,11 @@ import { faApple, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { faCheckCircle, faDownload, faGift } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useTranslations } from 'next-intl';
-import { appConfig } from '@/config/app';
+import { useAppConfig } from '@/lib/useAppConfig';
 
 export default function AppDownloadSection() {
   const t = useTranslations('AppDownload');
+  const appConfig = useAppConfig();
 
   return (
     <section id="download" className="relative overflow-hidden bg-gradient-to-br from-primary-600 via-primary-500 to-secondary-500 py-20">

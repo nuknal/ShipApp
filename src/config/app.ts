@@ -69,10 +69,11 @@ export interface AppConfig {
 }
 
 // 默认配置 - 开发者可以修改这些值来定制自己的应用
+// 注意：这些是 i18n key，实际内容将从语言文件中获取
 export const appConfig: AppConfig = {
-  name: "ShipApp",
-  tagline: "Ship your app faster than ever",
-  description: "The ultimate mobile app landing page template to help developers create stunning websites for their iOS and Android apps.",
+  name: "AppConfig.name",
+  tagline: "AppConfig.tagline", 
+  description: "AppConfig.description",
   
   appStore: {
     ios: "https://apps.apple.com/app/your-app-id",
@@ -81,7 +82,7 @@ export const appConfig: AppConfig = {
   
   social: {
     twitter: "@shipapp",
-    email: "contact@shipapp.com",
+    email: "contact@shipapp.com", 
     website: "https://shipapp.com"
   },
   
@@ -92,38 +93,38 @@ export const appConfig: AppConfig = {
   
   features: [
     {
-      title: "Feature One",
-      description: "Description of your first amazing feature that users will love.",
+      title: "AppConfig.features.feature1.title",
+      description: "AppConfig.features.feature1.description",
       icon: "brain",
       color: "primary"
     },
     {
-      title: "Feature Two", 
-      description: "Description of your second amazing feature that solves user problems.",
+      title: "AppConfig.features.feature2.title", 
+      description: "AppConfig.features.feature2.description",
       icon: "wand-magic-sparkles",
       color: "secondary"
     },
     {
-      title: "Feature Three",
-      description: "Description of your third feature that makes your app unique.",
+      title: "AppConfig.features.feature3.title",
+      description: "AppConfig.features.feature3.description",
       icon: "camera",
       color: "green"
     },
     {
-      title: "Feature Four",
-      description: "Description of your fourth feature that adds value for users.",
+      title: "AppConfig.features.feature4.title",
+      description: "AppConfig.features.feature4.description",
       icon: "star",
       color: "pink"
     },
     {
-      title: "Feature Five",
-      description: "Description of your fifth feature that enhances user experience.",
+      title: "AppConfig.features.feature5.title",
+      description: "AppConfig.features.feature5.description",
       icon: "chart-line",
       color: "orange"
     },
     {
-      title: "Feature Six",
-      description: "Description of your sixth feature that completes the experience.",
+      title: "AppConfig.features.feature6.title",
+      description: "AppConfig.features.feature6.description",
       icon: "heart",
       color: "red"
     }
@@ -131,73 +132,73 @@ export const appConfig: AppConfig = {
   
   testimonials: [
     {
-      name: "Sarah Johnson",
-      role: "Happy User",
-      content: "This app has completely transformed how I approach daily tasks. The interface is intuitive and the features are exactly what I needed.",
+      name: "AppConfig.testimonials.testimonial1.name",
+      role: "AppConfig.testimonials.testimonial1.role",
+      content: "AppConfig.testimonials.testimonial1.content",
       rating: 5
     },
     {
-      name: "Mike Chen",
-      role: "Professional User",
-      content: "I've tried many similar apps, but this one stands out with its attention to detail and user experience. Highly recommended!",
+      name: "AppConfig.testimonials.testimonial2.name",
+      role: "AppConfig.testimonials.testimonial2.role",
+      content: "AppConfig.testimonials.testimonial2.content",
       rating: 5
     },
     {
-      name: "Emily Davis",
-      role: "Regular User",
-      content: "Simple, effective, and beautifully designed. This app has become an essential part of my daily routine.",
+      name: "AppConfig.testimonials.testimonial3.name",
+      role: "AppConfig.testimonials.testimonial3.role",
+      content: "AppConfig.testimonials.testimonial3.content",
       rating: 5
     }
   ],
   
   screenshots: [
     {
-      title: "Main Interface",
-      description: "Clean and intuitive main interface with modern design and easy navigation",
+      title: "AppConfig.screenshots.screenshot1.title",
+      description: "AppConfig.screenshots.screenshot1.description",
       image: "/images/screenshots/profile.svg"
     },
     {
-      title: "Feature Overview", 
-      description: "Comprehensive feature showcase with beautiful UI components and smooth animations",
+      title: "AppConfig.screenshots.screenshot2.title", 
+      description: "AppConfig.screenshots.screenshot2.description",
       image: "/images/screenshots/settings.svg"
     },
     {
-      title: "User Profile",
-      description: "Personalized user dashboard with statistics and project management",
+      title: "AppConfig.screenshots.screenshot3.title",
+      description: "AppConfig.screenshots.screenshot3.description",
       image: "/images/screenshots/profile.svg"
     },
     {
-      title: "Settings Panel",
-      description: "Customizable settings with dark mode support and advanced preferences",
+      title: "AppConfig.screenshots.screenshot4.title",
+      description: "AppConfig.screenshots.screenshot4.description",
       image: "/images/screenshots/settings.svg"
     },
     {
-      title: "Notifications",
-      description: "Smart notification system with categorized alerts and real-time updates",
+      title: "AppConfig.screenshots.screenshot5.title",
+      description: "AppConfig.screenshots.screenshot5.description",
       image: "/images/screenshots/notifications.svg"
     }
   ],
   
   faqs: [
     {
-      question: "How do I get started with the app?",
-      answer: "Simply download the app from the App Store or Google Play, create an account, and follow the onboarding process. It takes less than 2 minutes to get started."
+      question: "AppConfig.faqs.faq1.question",
+      answer: "AppConfig.faqs.faq1.answer"
     },
     {
-      question: "Is the app free to use?",
-      answer: "The app offers a free tier with essential features. Premium features are available through a subscription for enhanced functionality."
+      question: "AppConfig.faqs.faq2.question",
+      answer: "AppConfig.faqs.faq2.answer"
     },
     {
-      question: "What devices are supported?",
-      answer: "The app is available for iOS 14.0+ and Android 8.0+. It works on phones and tablets with full responsive design."
+      question: "AppConfig.faqs.faq3.question",
+      answer: "AppConfig.faqs.faq3.answer"
     },
     {
-      question: "How do I contact support?",
-      answer: "You can reach our support team through the app's help section, or email us directly at contact@yourapp.com. We typically respond within 24 hours."
+      question: "AppConfig.faqs.faq4.question",
+      answer: "AppConfig.faqs.faq4.answer"
     },
     {
-      question: "Can I use the app offline?",
-      answer: "Yes, most core features work offline. Some features require internet connectivity for syncing and updates."
+      question: "AppConfig.faqs.faq5.question",
+      answer: "AppConfig.faqs.faq5.answer"
     }
   ]
 };

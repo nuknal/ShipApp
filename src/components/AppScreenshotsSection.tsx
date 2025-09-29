@@ -4,11 +4,12 @@ import { faCamera, faChevronLeft, faChevronRight } from '@fortawesome/free-solid
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useTranslations } from 'next-intl';
 import { useState } from 'react';
-import { appConfig } from '@/config/app';
+import { useAppConfig } from '@/lib/useAppConfig';
 import IPhone14ProMockup from './iPhone14ProMockup';
 
 export default function AppScreenshotsSection() {
   const t = useTranslations('AppScreenshots');
+  const appConfig = useAppConfig();
   const [currentSlide, setCurrentSlide] = useState(0);
 
   // 使用配置中的截图数据，如果没有配置则使用默认数据
