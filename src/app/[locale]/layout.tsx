@@ -150,12 +150,10 @@ export default async function LocaleLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
         />
 
-        (process.env.NEXT_PUBLIC_UMAMI_SCRIPT && (
         <Script
           src={process.env.NEXT_PUBLIC_UMAMI_SCRIPT}
           data-website-id={process.env.NEXT_PUBLIC_UMAMI_ID}
         />
-        ))
       </head>
       <body>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
